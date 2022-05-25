@@ -1,3 +1,3 @@
-# Ejemplo-Clase-Abstract
-### Proyecto Java / Java Application
-## Ejemplo clase abstract y sus métodos
+## Clase Abstract
+### Proyecto Java Application
+- #### Ejemplo de clase abstract y sus métodos
